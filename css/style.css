@@ -1,0 +1,104 @@
+* {
+  box-sizing: border-box;
+}
+
+body {
+  font-family: Arial, Helvetica, sans-serif;
+
+  }
+
+/* Style the header */
+header {
+  background-color: #f1f1f1;
+  padding: 30px;
+  text-align: center;
+  font-size: 35px;
+}
+
+/* Create three equal columns that floats next to each other */
+.column {
+  float: left;
+  width: 33.33%;
+  padding: 10px;
+  height: 300px;
+}
+
+/* Style the top navigation bar */
+nav {
+  overflow: hidden;
+  background-color: #333;
+}
+
+/* Style the navigation links */
+c {
+  float: left;
+  display: block;
+  color: #f2f2f2;
+  text-align: center;
+  padding: 14px 16px;
+  text-decoration: none;  }
+
+
+/* Style the footer */
+footer {
+  padding: 10px;
+  text-align: center;
+}
+
+Section {
+background-color:#ccc;"
+}
+article {
+background-color:#aaa;"
+}
+aside {
+	background-color:#bbb;"
+}
+
+@media only screen and (max-width: 620px){	
+
+header {
+  background-color: #f1f1f1;
+  padding: 30px;
+  text-align: center;
+  font-size: 35px;
+}
+
+/* Create three equal columns that floats next to each other */
+.column {
+  
+  width: 100%;
+  padding: 10px;
+  height: 300px;
+}
+
+/* Style the top navigation bar */
+nav {
+  overflow: hidden;
+  background-color: #333;
+}
+
+/* Style the navigation links */
+c {
+  float: left;
+  display: block;
+  color: #f2f2f2;
+  text-align: center;
+  padding: 14px 16px;
+  text-decoration: none;  
+  
+}
+
+
+/* Style the footer */
+footer {
+  padding: 10px;
+  text-align: center;
+}
+Section {
+background-color:#ccc;"}
+article {
+	background-color:#aaa;"}
+aside {
+	background-color:#bbb;"}
+}
